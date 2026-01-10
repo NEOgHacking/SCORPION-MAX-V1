@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "973a318c-9a88-4930-ba74-f26015d3f50c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 212.725 58.42)
+		(size 35.56 34.925)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73157164-b406-4309-b0bf-6ad955766f39")
+		(property "Sheetname" "PTC"
+			(at 212.725 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PTC.kicad_sch"
+			(at 212.725 93.9296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thermister Board"
+				(path "/973a318c-9a88-4930-ba74-f26015d3f50c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 94.615 59.69)
+		(size 37.465 37.465)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9f790b45-832d-4b3a-a6ea-272c56c48476")
+		(property "Sheetname" "NTC"
+			(at 94.615 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NTC.kicad_sch"
+			(at 94.615 97.7396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thermister Board"
+				(path "/973a318c-9a88-4930-ba74-f26015d3f50c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

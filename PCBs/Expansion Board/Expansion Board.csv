@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J1,J2","2","Conn_02x08_Odd_Even","","","","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical","~"
+"J3,J4","2","Conn_02x05_Odd_Even","","","","Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical","~"
+"R1,R2","2","10k","","","","Resistor_SMD:R_0603_1608Metric","~"
