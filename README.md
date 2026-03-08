@@ -64,7 +64,7 @@ Expansion board
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d631b2df-7358-48ad-856a-71c7ff6eed91" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bd1ac5fb-a070-4766-a22c-e94fdb3c53dc" />
 
-# Penalization
+# Panalization
 I have panelized the thermistor boards for better price per board, the panel still is under the 100x100 limit for the 2 dollar offer on jlcpcb so it’s still very cheap. I needed 6 thermistors for 2 boards and minimum order quantity on jlcpcb is 5, so I made a panel.
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/842d4744-9c13-46f3-a9d8-be3a0595093c" />
