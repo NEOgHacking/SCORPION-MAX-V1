@@ -35,7 +35,15 @@ There are 3 schematics for this project:
 2. Thermistor modules
 3. Expansion module
 
-These are way too long to display here (14 pages) so in the PCB folder there in folder for the board you want to see there is a pdf file of the schematic
+These are way too long to display here (14 pages) so in the PCB folder there in folder for the board you want to see there is a pdf file of the schematic, but here are a few.
+<img width="2000" height="1414" alt="Printer Mainboard page 1" src="https://github.com/user-attachments/assets/057f2683-0a0b-43bf-b409-4fbbd7585089" />
+<img width="2000" height="1414" alt="Printer Mainboard page 9" src="https://github.com/user-attachments/assets/7a6da1a1-000d-45e8-9d8b-16ca31f195a4" />
+<img width="2000" height="1414" alt="Printer Mainboard page 10" src="https://github.com/user-attachments/assets/6e5a2f28-ed79-4aae-bbf1-3c1e7deba906" />
+<img width="2000" height="1414" alt="Expansion board" src="https://github.com/user-attachments/assets/478c7bf2-6cee-4eb3-a968-4431a25ee28c" />
+<img width="2000" height="1414" alt="PTC" src="https://github.com/user-attachments/assets/84e0e13c-a185-4221-bb72-271f29c23621" />
+<img width="2000" height="1414" alt="NTC" src="https://github.com/user-attachments/assets/2d8213a4-8334-43ca-a30f-642f86d53528" />
+
+
 
 # PCB
 
@@ -56,7 +64,7 @@ Expansion board
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d631b2df-7358-48ad-856a-71c7ff6eed91" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bd1ac5fb-a070-4766-a22c-e94fdb3c53dc" />
 
-# Penalization
+# Panalization
 I have panelized the thermistor boards for better price per board, the panel still is under the 100x100 limit for the 2 dollar offer on jlcpcb so it’s still very cheap. I needed 6 thermistors for 2 boards and minimum order quantity on jlcpcb is 5, so I made a panel.
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/842d4744-9c13-46f3-a9d8-be3a0595093c" />

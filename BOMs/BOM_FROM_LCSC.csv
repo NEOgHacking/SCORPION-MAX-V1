@@ -1,0 +1,168 @@
+SCORPION MAX V1,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：11/01/26 03:50:32,,,,BOM Export Date: 12/01/26 06:11:32,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$156.41
+",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(EUR),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(EUR),Ext.Price(EUR),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+,,,,,,28,5,,,TYPE-C-31-M-12,Korean Hroparts Elec,5,0.1553,0.78,C165948,SMD,5,5,1000,428540,In Stock,,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,Exact Matches,https://www.lcsc.com/product-detail/C165948.html
+,,,,,,19,10,,,SMBJ64A,R+O,10,0.0441,0.44,C19077594,DO-214AA(SMB),10,10,3000,70550,In Stock,,103VC Clamp 5.83A@10/1000us Ipp TVS DIODE DO-214AA(SMB),Exact Matches,https://www.lcsc.com/product-detail/C19077594.html
+,,,,,,22,50,,,1N5819WS,Guangdong Hottech,50,0.0083,0.42,C191023,SOD-323,50,50,3000,2274200,In Stock,,Diode 40V 1A Surface Mount SOD-323,Exact Matches,https://www.lcsc.com/product-detail/C191023.html
+,,,,,,23,100,,,1N4148WT,JSMSEMI,100,0.0050,0.50,C917006,SOD-523,100,100,3000,942700,In Stock,,Diode Independent 75V 150mA Surface Mount SOD-523,Exact Matches,https://www.lcsc.com/product-detail/C917006.html
+,,,,,,24,10,,,BAT54KFILM,ST,10,0.0684,0.68,C283259,SOD-523,10,10,3000,2120,In Stock,,Diode 40V 300mA Surface Mount SOD-523,Exact Matches,https://www.lcsc.com/product-detail/C283259.html
+,,,,,,43,2,,,IHLP4040DZER6R8M01,VISHAY,2,0.8322,1.66,C845080,"SMD,10.8x10.2mm",1,1,500,48,In Stock,,"8A 6.8uH ±20% 23.3mΩ 13.5A SMD,10.8x10.2mm Fixed Inductors RoHS",Exact Matches,https://www.lcsc.com/product-detail/C845080.html
+,,,,,,27,2,,,USB-302-T,SOFNG,2,0.1055,0.21,C112456,"Through Hole,Right Angle",1,1,100,7704,In Stock,,USB-A (USB TYPE-A) Receptacle Connector 4 Position Right Angle,Exact Matches,https://www.lcsc.com/product-detail/C112456.html
+,,,,,,71,5,,,NE555DR,TI,5,0.0852,0.43,C7593,SOIC-8,5,5,2500,115150,In Stock,,SOIC-8 Programmable Timers and Oscillators RoHS,Exact Matches,https://www.lcsc.com/product-detail/C7593.html
+,,,,,,64,5,,,STMPS2141STR,ST,5,0.2987,1.49,C54624,SOT-23-5,5,5,3000,2220,In Stock,,"SOT-23-5 Power Distribution Switches, Load Drivers RoHS",Exact Matches,https://www.lcsc.com/product-detail/C54624.html
+,,,,,,72,10,,,TMC2130-TA-T,TRINAMIC,10,4.3494,43.49,C328952,TQFP-48-EP(7x7),1,1,2000,1640,In Stock,,"TQFP-48-EP(7x7) Motor Drivers, Controllers RoHS",Exact Matches,https://www.lcsc.com/product-detail/C328952.html
+,,,,,,68,5,,,AP7361C-33E-13,DIODES,5,0.2142,1.07,C500795,SOT-223,5,5,2500,250,In Stock,,"6V Positive Fixed 3.3V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",Exact Matches,https://www.lcsc.com/product-detail/C500795.html
+,,,,,,67,5,,,USBLC6-2SC6,ST,5,0.1155,0.58,C7519,SOT-23-6L,5,5,3000,9985,In Stock,,17VC Clamp 5A Ipp ESD DIODE SOT-23-6L,Exact Matches,https://www.lcsc.com/product-detail/C7519.html
+,,,,,,74,5,,,NX3225GA-25.000M-STD-CRG-2,NDK,5,0.2464,1.23,C1985619,SMD3225-4P,5,5,3000,1600,In Stock,,Crystal 25MHz ±20ppm 8pF 50Ω SMD3225-4P,Exact Matches,https://www.lcsc.com/product-detail/C1985619.html
+,,,,,,44,10,,,NVMFWS4D5N08XT1G,onsemi,10,1.5580,15.58,C29841638,DFNW-5(5x6),1,1,1500,48,In Stock,,"80V 92A 3.6V 4.5mΩ@10V 1 N-channel 82W DFNW-5(5x6) Single FETs, MOSFETs RoHS",Exact Matches,https://www.lcsc.com/product-detail/C29841638.html
+,,,,,,66,5,,,B3F-3120,OMRON,5,0.1885,0.94,C231318,Through Hole,5,5,1000,2070,In Stock,,"Tactile Switch SPST 100gf 1.6mm PC Pin Through Hole, Right Angle",Exact Matches,https://www.lcsc.com/product-detail/C231318.html
+,,,,,,34,10,,,63849-1,TE Connectivity,10,0.0578,0.58,C86469,Through Hole,10,10,2000,11260,In Stock,,"Through Hole Quick Connects, Quick Disconnect Connectors RoHS",Exact Matches,https://www.lcsc.com/product-detail/C86469.html
+,,,,,,36,2,,,1711725,Phoenix Contact,2,0.9011,1.80,C89120,"Through Hole,P=5.08mm",1,1,100,893,In Stock,,2 Position Wire to Board Terminal Block Through Hole 5.08mm,Exact Matches,https://www.lcsc.com/product-detail/C89120.html
+,,,,,,302,5,,,SS11-BBIWG-R20-R,Legion,5,0.2283,1.14,C309069,"Through Hole,21x15mm",5,5,500,2870,In Stock,,Rocker Switch SPST 16A(AC) 250V Through Hole,Exact Matches,https://www.lcsc.com/product-detail/C309069.html
+,,,,,,25,5,,,XF-508P-B-B,XFCN,5,0.2015,1.01,C19727305,DIP-4,5,5,500,28605,In Stock,,Blade 15A Clip 1 DIP-4 Fuseholders RoHS,Exact Matches,https://www.lcsc.com/product-detail/C19727305.html
+,,,,,,301,10,,,1757019,Phoenix Contact,10,0.6432,6.43,C90073,P=5.08mm,1,1,100,1840,In Stock,,2 Position Plug 5.08mm Pitch,Exact Matches,https://www.lcsc.com/product-detail/C90073.html
+,,,,,,65,2,,,SDDJF31100,ALPSALPINE,2,2.7511,5.50,C380204,Through Hole,1,1,100,251,In Stock,,Rocker Switch DPST 16A(AC) 250V Through Hole,Exact Matches,https://www.lcsc.com/product-detail/C380204.html
+,,,,,,17,10,,,DSK24L,LGE,10,0.0500,0.50,C19272974,SOD-123FL,10,10,3000,70,In Stock,,Diode Independent 40V 2A Surface Mount SOD-123FL,Exact Matches,https://www.lcsc.com/product-detail/C19272974.html
+,,,,,,45,20,,,"BC817-40,215",Nexperia,20,0.0306,0.61,C52801,SOT-23,20,20,3000,0,Backordered,,Bipolar (BJT) Transistor NPN 45V 500mA 100MHz 345mW Surface Mount SOT-23,Exact Matches,https://www.lcsc.com/product-detail/C52801.html
+,,,,,,46,20,,,"BC807-40,215",Nexperia,20,0.0280,0.56,C57316,SOT-23,20,20,3000,145000,In Stock,,Bipolar (BJT) Transistor PNP 45V 500mA 80MHz 250mW Surface Mount SOT-23,Exact Matches,https://www.lcsc.com/product-detail/C57316.html
+,,,,,,26,2,,,LM76005QRNPRQ1,TI,2,4.7957,9.59,C2873394,WQFN-30(4x6),1,1,3000,76,In Stock,,Buck Switching Regulator IC Adjustable 1V~57V 1 Output 5A WQFN-30(4x6),Exact Matches,https://www.lcsc.com/product-detail/C2873394.html
+,,,,,,29,20,,,B2B-XH-A(LF)(SN),JST,20,0.0308,0.62,C158012,"Through Hole,P=2.5mm",20,20,1000,292080,In Stock,,Connector Header 2 position 2.5mm Pitch 3A Through Hole -25℃~+85℃,Exact Matches,https://www.lcsc.com/product-detail/C158012.html
+,,,,,,39,20,,,PZ2.54-1X6P-H25,JXTCONN,20,0.0099,0.20,C42431790,"Through Hole,P=2.54mm",20,20,2000,5320,In Stock,,Pin Header 6 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431790.html
+,,,,,,40,10,,,PM2.54-1X3P-H85,JXTCONN,10,0.0262,0.26,C42431866,"Through Hole,P=2.54mm",5,5,500,8210,In Stock,,"3A 3P Through Hole -40℃~+105℃ 8.5mm Gold 1x3P 2.54mm Top 1 Square Hole Through Hole,P=2.54mm Headers, Receptacles, Female Sockets RoHS",Exact Matches,https://www.lcsc.com/product-detail/C42431866.html
+,,,,,,31,10,,,PM2.54-2X8PM-H85,JXTCONN,10,0.0577,0.58,C42431844,"Through Hole,P=2.54mm",5,5,200,1395,In Stock,,Female Header 16 Position 2.54mm Pitch Dual Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431844.html
+,,,,,,32,10,,,PM2.54-1X4PM-H85,JXTCONN,10,0.0553,0.55,C42431839,"Through Hole,P=2.54mm",5,5,500,2015,In Stock,,Female Header 4 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431839.html
+,,,,,,41,10,,,PM2.54-1X2PM-H85,JXTCONN,10,0.0544,0.54,C42431841,"Through Hole,P=2.54mm",5,5,1000,8450,In Stock,,Female Header 2 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431841.html
+,,,,,,33,10,,,B3B-XH-A(LF)(SN),JST,10,0.0414,0.41,C144394,"Through Hole,P=2.5mm",10,10,1000,176710,In Stock,,Connector Header 3 position 2.5mm Pitch 3A Through Hole -25℃~+85℃,Exact Matches,https://www.lcsc.com/product-detail/C144394.html
+,,,,,,38,20,,,B4B-XH-A(LF)(SN),JST,20,0.0449,0.90,C144395,"Through Hole,P=2.5mm",10,10,500,182050,In Stock,,Connector Header 4 position 2.5mm Pitch 3A Through Hole -25℃~+85℃,Exact Matches,https://www.lcsc.com/product-detail/C144395.html
+,,,,,,63,40,,,FBF06FTPR120-00L,PSA,40,0.0205,0.82,C382272,1206,20,20,5000,320,In Stock,,120mΩ ±1% 750mW,Exact Matches,https://www.lcsc.com/product-detail/C382272.html
+,,,,,,4,2,,,593D227X0010E2TE3,VISHAY,2,0.4228,0.85,C1952898,CASE-E-7343-43(mm),1,1,400,41,In Stock,,220uF ±20% 10V Tantalum Capacitors 100mΩ 2917,Exact Matches,https://www.lcsc.com/product-detail/C1952898.html
+,,,,,,3,5,,,VJ0805Y474KXQTW1BC,VISHAY,5,0.0519,0.26,C2177586,0805,5,5,3000,35,In Stock,,470nF ±10% 10V Ceramic Capacitor X7R 0805,Exact Matches,https://www.lcsc.com/product-detail/C2177586.html
+,,,,,,5,3,,,VJ1210Y474KXBAT,VISHAY,3,0.4224,1.27,C2313088,1210,1,1,2000,24,In Stock,,470nF ±10% 100V Ceramic Capacitor X7R 1210,Exact Matches,https://www.lcsc.com/product-detail/C2313088.html
+,,,,,,6,5,,,C3225X7S2A475KT003S,TDK,5,0.4065,2.03,C694475,1210,1,1,1000,525,In Stock,,100V 4.7uF X7S ±10% 1210 Ceramic Capacitors RoHS,Exact Matches,https://www.lcsc.com/product-detail/C694475.html
+,,,,,,7,5,,,C1608X5R1C225KT000N,TDK,5,0.0310,0.16,C76612,0603,5,5,4000,2490,In Stock,,2.2uF ±10% 16V Ceramic Capacitor X5R 0603,Exact Matches,https://www.lcsc.com/product-detail/C76612.html
+,,,,,,9,5,,,EEEFK1J100P,PANASONIC,5,0.1279,0.64,C128459,"SMD,D6.3xL5.8mm",5,5,1000,6980,In Stock,,10uF ±20% 63V Aluminum Electrolytic Capacitors 2000hrs@105℃,Exact Matches,https://www.lcsc.com/product-detail/C128459.html
+,,,,,,10,100,,,CC0603KRX7R9BB103,YAGEO,100,0.0020,0.20,C100042,0603,100,100,4000,7339600,In Stock,,10nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C100042.html
+,,,,,,1,200,,,CC0603KRX7R9BB104,YAGEO,200,0.0019,0.38,C14663,0603,100,100,4000,23529600,In Stock,,100nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C14663.html
+,,,,,,13,50,,,CL10A105KB8NNNC,Samsung Electro-Mechanics,50,0.0046,0.23,C15849,0603,50,50,4000,8315200,In Stock,,1uF ±10% 50V Ceramic Capacitor X5R 0603,Exact Matches,https://www.lcsc.com/product-detail/C15849.html
+,,,,,,12,100,,,CC0603KRX7R9BB223,YAGEO,100,0.0027,0.27,C106222,0603,100,100,4000,1160800,In Stock,,22nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C106222.html
+,,,,,,14,50,,,CL10C080DB81PNC,Samsung Electro-Mechanics,50,0.0087,0.44,C346204,0603,50,50,4000,10650,In Stock,,8pF 50V Ceramic Capacitor C0G 0603,Exact Matches,https://www.lcsc.com/product-detail/C346204.html
+,,,,,,2,50,,,CL21A475KBQNNNE,Samsung Electro-Mechanics,50,0.0172,0.86,C98192,0805,10,10,2000,3008340,In Stock,,4.7uF ±10% 50V Ceramic Capacitor X5R 0805,Exact Matches,https://www.lcsc.com/product-detail/C98192.html
+,,,,,,37,50,,,PH2.54-1X2P-H25,JXTCONN,50,0.0052,0.26,C42431798,"Through Hole,P=2.54mm",50,50,2000,57250,In Stock,,Pin Header 2 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431798.html
+,,,,,,11,50,,,CC0603KRX7R9BB474,YAGEO,50,0.0076,0.38,C513577,0603,50,50,4000,693950,In Stock,,470nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C513577.html
+,,,,,,15,50,,,CL10A225KB8NNNC,Samsung Electro-Mechanics,50,0.0187,0.94,C913904,0603,10,10,4000,322070,In Stock,,2.2uF ±10% 50V Ceramic Capacitor X5R 0603,Exact Matches,https://www.lcsc.com/product-detail/C913904.html
+,,,,,,35,5,,,DIN-422,HOOYA,5,0.2494,1.25,C2939341,Through Hole,5,5,100,0,Backordered,,6.5A -25℃~+85℃ Through Hole Circular Connector Assemblies RoHS,Exact Matches,https://www.lcsc.com/product-detail/C2939341.html
+,,,,,,57,100,,,RC0603FR-07100RL,YAGEO,100,0.0012,0.12,C105588,0603,100,100,5000,1118300,In Stock,,100mW 100Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C105588.html
+,,,,,,50,100,,,RC0603FR-07120RL,YAGEO,100,0.0013,0.13,C114640,0603,100,100,5000,76300,In Stock,,100mW 120Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C114640.html
+,,,,,,62,100,,,RC0603FR-0710RL,YAGEO,100,0.0028,0.28,C109318,0603,100,100,5000,687500,In Stock,,100mW 10Ω 75V Thick Film Resistor ±1% ±200ppm/℃ 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C109318.html
+,,,,,,58,100,,,RC0805FR-0710RL,YAGEO,100,0.0047,0.47,C96347,0805,100,100,5000,101000,In Stock,,10Ω 125mW 150V Thick Film Resistor ±1% ±200ppm/℃ 0805 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C96347.html
+,,,,,,51,100,,,RC0603FR-07470RL,YAGEO,100,0.0013,0.13,C114669,0603,100,100,5000,235200,In Stock,,100mW 470Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C114669.html
+,,,,,,48,100,,,RC0603FR-07620RL,YAGEO,100,0.0012,0.12,C137695,0603,100,100,5000,145200,In Stock,,620Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C137695.html
+,,,,,,55,100,,,RC0603FR-071KL,YAGEO,100,0.0012,0.12,C22548,0603,100,100,5000,2322600,In Stock,,100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C22548.html
+,,,,,,60,100,,,RC0603FR-071K8L,YAGEO,100,0.0012,0.12,C185354,0603,100,100,5000,177300,In Stock,,100mW 1.8kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C185354.html
+,,,,,,61,100,,,RC0603FR-0710KL,YAGEO,100,0.0012,0.12,C98220,0603,100,100,5000,3570900,In Stock,,100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C98220.html
+,,,,,,54,100,,,RC0603FR-074K7L,YAGEO,100,0.0012,0.12,C99782,0603,100,100,5000,1705600,In Stock,,100mW 4.7kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C99782.html
+,,,,,,52,20,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+,,,,,,53,50,,,RT0603BRE0724K9L,YAGEO,50,0.0184,0.92,C861775,0603,50,50,5000,250,In Stock,,24.9kΩ 100mW 75V Thin Film Resistor ±50ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C861775.html
+,,,,,,49,100,,,RC0603FR-075K1L,YAGEO,100,0.0013,0.13,C105580,0603,100,100,5000,225400,In Stock,,100mW 5.1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C105580.html
+,,,,,,18,20,,,A-SP192DGHC-C01-4T,Amicc,20,0.0199,0.40,C19171301,0603,20,20,4000,363940,In Stock,,Green 518nm LED Indication - Discrete 2.4V~3V 0603,Exact Matches,https://www.lcsc.com/product-detail/C19171301.html
+,,,,,,20,20,,,A-SP192DB1C-C01-4T,Amicc,20,0.0283,0.57,C5355419,0603,20,20,4000,3180,In Stock,,Blue 470nm LED Indication - Discrete 2.6V~3.2V 0603,Exact Matches,https://www.lcsc.com/product-detail/C5355419.html
+,,,,,,21,20,,,A-SP192DG2C-C01-4T,Amicc,20,0.0236,0.47,C5151486,0603,20,20,4000,760,In Stock,,Yellow Green 575nm LED Indication - Discrete 2.3V 0603,Exact Matches,https://www.lcsc.com/product-detail/C5151486.html
+,,,,,,16,20,,,A-SP192XR5C-A01-4T,Amicc,20,0.0189,0.38,C19171307,0603,20,20,4000,3740,In Stock,,Red 639nm LED Indication - Discrete 1.7V~2.2V 0603,Exact Matches,https://www.lcsc.com/product-detail/C19171307.html
+,,,,,,8,20,,,RVT1J101M1010,ROQANG,20,0.0804,1.61,C72481,"SMD,D10xL10.2mm",5,5,500,51190,In Stock,,100uF ±20% 63V Aluminum Electrolytic Capacitors 2000hrs@105℃,Exact Matches,https://www.lcsc.com/product-detail/C72481.html
+,,,,,,56,100,,,RC0603FR-07430RL,YAGEO,100,0.0012,0.12,C137721,0603,100,100,5000,158400,In Stock,,100mW 430Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C137721.html
+,,,,,,42,2,,,G2RL-1A-E DC5,OMRON,2,2.7345,5.47,C397259,DIP,1,1,20,15,In Stock,,16A 5V 1 Set Normally Open: 1A (SPST NO) DIP Power Relays RoHS,Exact Matches,https://www.lcsc.com/product-detail/C397259.html
+,,,,,,59,100,,,RC0603FR-07536RL,YAGEO,100,0.0013,0.13,C245976,0603,100,100,5000,4600,In Stock,,100mW 536Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C245976.html
+,,,,,,110,4,,,INA826AIDRGR,TI,4,2.0966,8.39,C2870890,WSON-8-EP(3x3),1,1,3000,96,In Stock,,WSON-8-EP(3x3) Amplifiers RoHS,Exact Matches,https://www.lcsc.com/product-detail/C2870890.html
+,,,,,,73,2,,,STM32H743VIT6,ST,2,6.1268,12.25,C114409,LQFP-100(14x14),1,1,90,4000,In Stock,,ARM Cortex-M7 32 Bit 480MHz 82 LQFP-100(14x14) Microcontrollers RoHS,Exact Matches,https://www.lcsc.com/product-detail/C114409.html
+,,,,,,30,1,,,1923869,Phoenix Contact,1,0.5341,0.53,C5443585,P=5.08mm,1,1,50,2,In Stock,,"2P 5.08mm Green 2 1 Straight Pin P=5.08mm Headers, Plugs and Sockets RoHS",Exact Matches,https://www.lcsc.com/product-detail/C5443585.html
+,,,,,,69,5,,,TC4427EOA,MICROCHIP,5,1.1397,5.70,C636891,SOIC-8,1,1,100,1168,In Stock,,1.5A 4.5V~18V SOIC-8 Gate Drivers RoHS,Exact Matches,https://www.lcsc.com/product-detail/C636891.html
+,,,,,,70,3,,,SN74LV4T125PWR,TI,3,0.5946,1.78,C90755,TSSOP-14,1,1,2000,2208,In Stock,,"1.6V~5.5V 1 4 3.2ns@5V,15pF 20uA TSSOP-14 Buffers, Drivers, Receivers, Transceivers RoHS",Exact Matches,https://www.lcsc.com/product-detail/C90755.html
+,,,,,,47,100,,,RC0603FR-0747KL,YAGEO,100,0.0012,0.12,C105579,0603,100,100,5000,273000,In Stock,,100mW 47kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C105579.html
+,,,,,,52,20,,,RT0603BRE07100KL,YAGEO,20,0.0167,0.33,C326758,0603,20,20,5000,67860,In Stock,,100kΩ 100mW 75V Thin Film Resistor ±50ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C326758.html
+,,,,,,105,100,,,RC0603FR-072K2L,YAGEO,100,0.0012,0.12,C114662,0603,100,100,5000,150000,In Stock,,100mW 2.2kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C114662.html
+,,,,,,103,50,,,PH2.54-1X3P-H25,JXTCONN,50,0.0052,0.26,C42431836,"Through Hole,P=2.54mm",50,50,2000,40900,In Stock,,Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431836.html
+,,,,,,304,5,,,0297003.WXNV,Littelfuse,5,0.1098,0.55,C151092,-,5,5,3000,6400,In Stock,,1kA@32V Blade Fuse 3A 32V Fuses RoHS,Exact Matches,https://www.lcsc.com/product-detail/C151092.html
+,,,,,,303,5,,,0297010.WXNV,Littelfuse,5,0.0873,0.44,C151094,-,5,5,3000,18715,In Stock,,1kA@32V Blade Fuse 10A 32V Fuses RoHS,Exact Matches,https://www.lcsc.com/product-detail/C151094.html
+,,,,,,201,5,,,PH2.54-2X8P-H25,JXTCONN,5,0.0531,0.27,C42431811,"Through Hole,P=2.54mm",5,5,500,2800,In Stock,,Pin Header 16 Position 2.54mm Pitch Dual Row Through Hole -40℃~+105℃,Exact Matches,https://www.lcsc.com/product-detail/C42431811.html
+,,,,,,202,5,,,GPHA204-0502A001A1AC,GREENCONN,5,0.2290,1.15,C7434489,"Through Hole,P=2.54mm",5,5,30,30,In Stock,,"IDC Header 2 2.54mm -40℃~+105℃ 5 3A 2.54mm Through Hole,P=2.54mm Headers, Male Pins RoHS",Exact Matches,https://www.lcsc.com/product-detail/C7434489.html
+,,,,,,201,5,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+,,,,,,202,5,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+,,,,,,107,100,,,RC0603FR-075K49L,YAGEO,100,0.0007,0.07,C188263,0603,100,100,5000,7000,In Stock,,5.49kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C188263.html
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
