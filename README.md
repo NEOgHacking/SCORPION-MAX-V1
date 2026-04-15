@@ -1,4 +1,5 @@
 # 3D printer / CNC Mainboard
+<img width="3840" height="2160" alt="PCB SCORPION MAX V1" src="https://github.com/NEOgHacking/SCORPION-MAX-V1/blob/main/Pictures/IMG_20260327_151535932.jpg" />
 <img width="3840" height="2160" alt="PCB SCORPION MAX V1" src="https://github.com/NEOgHacking/SCORPION-MAX-V1/blob/main/Pictures/Render SCORPION MAX V1_RED_SILKSCREEN.png" />
 A main board for a 3d printer or CNC with wide possibilities with the use of the expansion board and thermistor boards! This board is based on the STM32H743 for its massive power. And everyone hates loud stepper motors, so it uses the TMC2130 silent stepper drivers, these are not only very quiet but have a lot of other functions!
 
