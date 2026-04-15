@@ -2,6 +2,8 @@
 <img width="3840" height="2160" alt="PCB SCORPION MAX V1" src="https://github.com/NEOgHacking/SCORPION-MAX-V1/blob/main/Pictures/Render SCORPION MAX V1_RED_SILKSCREEN.png" />
 A main board for a 3d printer or CNC with wide possibilities with the use of the expansion board and thermistor boards! This board is based on the STM32H743 for its massive power. And everyone hates loud stepper motors, so it uses the TMC2130 silent stepper drivers, these are not only very quiet but have a lot of other functions!
 
+# Video of working
+[![Watch the video](https://github.com/NEOgHacking/SCORPION-MAX-V1/blob/main/Pictures/Render SCORPION MAX V1_RED_SILKSCREEN.png)](https://youtube.com/shorts/JvQLqBAzKsY?feature=share)
 # Reason
 So long story longer I have an ultimaker 2+ laying at home doing nothing because of the noisy stepper drivers and recently getting an ultimaker S5 so I wanted to make it quieter and more useful. I was amazed by the Prusa mini being so quiet, so I thought why not build my own mainboard with way more quiet stepper drivers and more functions. The second reason is that I am planning to build a CNC somewhere in the future so I thought it would be a genius idea to build my own 3D printer / CNC mainboard with my own overkill specs and the best stepper drivers. And most of all A LOT of power in amps and compute!
 
